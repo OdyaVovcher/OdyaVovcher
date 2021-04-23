@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OdyaVovcher
-- 👀 I’m interested in Python, Java
-- 🌱 I’m currently learning Django, Java
+- 👀 I’m interested in Python, Java, Web
+- 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://vk.com/odya_vovcher
 
